@@ -58,7 +58,7 @@ This project focuses on analyzing customer churn for a subscription-based servic
 - Tech support and multiple lines significantly influence churn risk: customers without tech support (164 predicted churners) and with multiple lines (126 predicted churners) are more likely to churn.
 - Payment method trends mirror the overview, with electronic check users (135 predicted churners) being the most at-risk group.
 
-  ### Recommendation
+ ### Recommendation
 
 #### 1. Incentivize Longer-Term Contracts
 - Insight: The analysis shows that customers on month-to-month contracts have a significantly higher churn rate (3,875 churners) compared to those on one-year (1,473 churners) or two-year contracts (1,665 churners). Additionally, churn rates drop as tenure increases—52.9% for 0–6 months versus 11.9% for 3+ years.
